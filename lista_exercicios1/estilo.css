@@ -1,0 +1,19 @@
+p{
+    background-color: darkred;
+    text-transform: capitalize;
+}
+h1{
+    font-style: italic;
+   font-variant: small-caps;
+   text-align: center;
+}
+h1+p{
+    text-align: right;
+}
+body{
+    background-color: lightcyan;
+}
+a{
+    text-decoration:line-through;
+
+}

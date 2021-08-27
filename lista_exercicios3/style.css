@@ -1,0 +1,39 @@
+body{
+    background-color: pink;
+}
+#txt{
+    background-color: #ffffff;
+    text-align: center;
+    border: orange solid 1px;
+    width: 100%;
+}
+header{
+    text-align: center;
+    width: 100%;
+}
+h1{
+text-shadow: 2px 2px red;
+}
+p{
+    padding: 15px;
+}
+img{
+    width: 400px;
+    height:400px;
+   box-shadow:10px 10px DarkSalmon;
+   border-radius: 20px;
+}
+#imagem{
+    padding: 20px;
+    width:400px;
+    margin: 0 auto;
+}
+footer{
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    font-weight: bold;
+    position: relative;
+    bottom: 0;
+}

@@ -1,0 +1,28 @@
+table,tr,th,td{
+    border: solid 2px #d3d3d3;
+    width: 450px;
+    height: 20px;
+}
+.txt{
+    text-align: center;
+}
+.linha{
+    background-color: #A8A8A8;
+}
+.verde{
+    color: green;
+}
+.vermelho{
+    color: red;
+}
+p{
+    color: blue;
+    border-bottom: solid black 2px;
+    width: 100vw;
+}
+
+.principal{
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}

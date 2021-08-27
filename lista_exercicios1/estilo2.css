@@ -1,0 +1,11 @@
+img{
+    height: 200px;
+    width: 150px;
+}
+ul,ol{
+    border: solid 2px pink;
+}
+li{
+    color: indigo;
+}
+/*não entendi o que era fazer com essas imagens*/
